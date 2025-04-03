@@ -38,7 +38,7 @@ Jika menggunakan Google Colab, tambahkan perintah berikut:
    - Untuk Google Colab, buka file `.ipynb`
    - Untuk Python script, jalankan:
      ```bash
-     python main.py
+     python index.py
      ```
 
 3. **Scraping Data**
