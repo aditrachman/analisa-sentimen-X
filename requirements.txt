@@ -1,0 +1,8 @@
+nltk
+seaborn
+wordcloud
+requests
+beautifulsoup4
+scikit-learn
+pandas
+matplotlib
